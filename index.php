@@ -14,7 +14,7 @@
 	<section class="container-fluid">
       <div class="container">
 			     <div style="margin: 0;" class="row">
-				         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+				         <div id="robinson" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                     Robinson
                  </div>
 		       </div>
@@ -24,7 +24,7 @@
   <section class="container-fluid">
       <div class="container">
 			     <div style="margin: 0;" class="row">
-				         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+				         <div id="oscar" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                     Oscar
                  </div>
 		       </div>
@@ -34,7 +34,7 @@
   <section class="container-fluid">
       <div class="container">
 			     <div style="margin: 0;" class="row">
-				         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+				         <div id="hugo" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                     Hugo
                  </div>
 		       </div>
