@@ -15,7 +15,7 @@
       <div class="container">
 			     <div style="margin: 0;" class="row">
 				         <div id="robinson" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                    
+                                             <img src="imagenes/linux.png" alt=""/>
                     <h2>Contenido de Robinson</h2>
                     <p>Hola Hugo, <br>Gracias por dejarme participar en esta iniciativa</p>
                     
