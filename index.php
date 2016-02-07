@@ -35,7 +35,7 @@
       <div class="container">
 			     <div style="margin: 0;" class="row">
 				         <div id="hugo" class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                    Hugo
+                    Acá voy empezando mi parte en la que agregaré algunos formularios o lo que sea
                  </div>
 		       </div>
      </div>
