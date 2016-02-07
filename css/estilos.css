@@ -1,5 +1,6 @@
 /*** ESTILOS DE HUGO ***/
-#hugo{background: #b50}
+.hugo{background: #b50}
+.jumbotronTestimonio{background: none;}
 
 /*** ESTILOS DE OSCAR ****/
 #robinson{background: #3ed}
