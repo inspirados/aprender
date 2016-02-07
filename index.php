@@ -42,7 +42,7 @@
   <section class="container-fluid">
       <div class="container">
 			     <div style="margin: 0;" class="row">
-				         <div class="hugo" class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+				         <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 hugo">
 										 <div class="testimonio row">
 												 <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
 													 <img class="img-circle img-responsive" src="imagenes/fotoTestimonio.jpg">
